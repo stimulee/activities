@@ -1,6 +1,6 @@
 # activities
 
-The project is a tool to manage extracurricular activity registrations.
+This project is a tool to manage extracurricular activity registrations. But it can be use manage other kind of registration.
 
 ## Goals and functions
 - simple installation
@@ -25,4 +25,7 @@ Registration lifecycle :
 - List activities (including not available with a specific color and indicator)
 - Select activities
 - Check if paiement is done
+
+Rules :
+- A participant can be register only once.
 
